@@ -44,6 +44,18 @@ p{
     
 }
 
+#title1{
+    background-color: #e6bd19;
+}
+
+#title2{
+    background-color: #ec9f79;
+}
+#title3{
+    background-color: #799fec;
+}
+
+
 /******* Desktop view ******/
 @media ( min-width: 992px ){
     .col-lg-4{
